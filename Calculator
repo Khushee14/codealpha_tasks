@@ -1,0 +1,30 @@
+Calculator by Me
+This project is a simple calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations.
+
+Features
+Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
+Additional Functions: Clear All (AC), Delete Last Digit (DEL), Percentage Calculation (%).
+Responsive Design: The calculator is designed to be responsive and works on various screen sizes.
+Technologies Used
+HTML: Structure of the calculator interface.
+CSS: Styling for layout and visual appearance.
+JavaScript: Functionality for handling user input and performing calculations.
+Files Included
+index.html: Contains the HTML structure for the calculator.
+style10.css: External stylesheet for defining layout and design.
+script10.js: JavaScript file for implementing calculator functionalities.
+Usage
+Launching the Calculator: Open index.html in a web browser.
+Performing Calculations: Click on the numeric buttons (0-9), operators (+, -, *, /), and function buttons (AC, DEL, %, .) to perform calculations.
+Clearing and Deleting: Use AC to clear the input box, DEL to delete the last digit, and % for percentage calculations.
+Getting Results: Press = to display the result of the calculation in the input box.
+Customization
+Adding Functionality: Modify script10.js to add more operations or advanced features.
+Styling: Customize the appearance of the calculator by editing style10.css.
+Enhancements: Expand the calculator with scientific functions, memory features, or history tracking.
+Compatibility
+The calculator is compatible with modern web browsers that support HTML5, CSS3, and JavaScript.
+Notes
+Ensure all JavaScript functionalities (script10.js) are correctly linked and functioning as expected.
+Verify paths to external resources (style10.css and script10.js) for proper integration.
+Customize styles and layout in style10.css to suit your design preferences.
